@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@700&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Cardo', serif;
+}
+
+button{
+  padding:20px;
+  margin : 0 3px;
+  border: 2px solid #000000;
+  border-radius : 100%;
+  cursor: pointer;
+  background:#cfc2b4;
+  
+}
+.flex{
+  background-color: #65c3ec;
+  border-radius: 5%;
+  width: 40vmax;
+}
+.row{
+  margin : 8px 0;
+  display:flex;
+}
+
+.row input{
+  font-size:19px;
+  margin : 0;
+  padding : 10px 0px;
+  border: 2px solid black;
+  border-radius:5px;
+}
+
